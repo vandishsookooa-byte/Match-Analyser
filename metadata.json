@@ -1,0 +1,7 @@
+{
+  "name": "FBref Analytics - npxGD Match Ranker",
+  "description": "Automated sports analytics engine calculating non-penalty expected goals differential (npxGD) and ranking top fixtures across EPL, La Liga, Serie A, Bundesliga, and Champions League from fbrapi.com payloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
